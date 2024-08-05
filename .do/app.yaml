@@ -46,7 +46,7 @@ databases:
 # Create a new dev DB:
 - name: db
   engine: PG
-  version: "12"
+  version: "14"
 # Or bring an existing DB:
 # - name: db
 #   production: true
